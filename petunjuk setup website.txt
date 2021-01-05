@@ -1,0 +1,12 @@
+CARA SETUP WEBSITE
+
+1. Extract file ke folder htdos dalam folder XAMPP
+2. Buka XAMPP, jalankan Apache
+3. Pastikan komputer terkoneksi dengan jaringan internet
+4. Jalankan Apache Jena Fuseki
+5. Buka Apache Jena Fuseki pada browser di localhost:3030 (Jena Fuseki)
+6. Create dataset "lab_sw" di localhost:3030 (Jena Fuseki)
+7. Upload genshin_impact.ttl ke dataset
+8. Buka http://localhost/lab_sw/
+Website siap digunakan :)
+
